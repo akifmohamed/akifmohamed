@@ -1,0 +1,68 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05090c"/>
+      <stop offset="0.55" stop-color="#0a1416"/>
+      <stop offset="1" stop-color="#030708"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ff88"/>
+      <stop offset="0.55" stop-color="#00f0ff"/>
+      <stop offset="1" stop-color="#ffb800"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ff88"/>
+      <stop offset="1" stop-color="#00f0ff"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#00ff88" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#00ff88" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#00f0ff" stroke-opacity="0.05"/>
+    </pattern>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <ellipse cx="1020" cy="150" rx="260" ry="200" fill="url(#halo)"/>
+
+  <!-- decorative traces -->
+  <g stroke="#00ff88" stroke-opacity="0.35" fill="none" stroke-width="1.2">
+    <path d="M0 62 H420 L470 112 H640"/>
+    <path d="M0 236 H300 L350 190 H520"/>
+    <path d="M560 300 V220 L620 160 H740"/>
+  </g>
+  <g stroke="#00f0ff" stroke-opacity="0.3" fill="none" stroke-width="1">
+    <path d="M900 0 V70 L840 130 V210"/>
+    <path d="M1180 300 V240 L1140 200 V120"/>
+  </g>
+  <g fill="#00ff88" fill-opacity="0.7">
+    <circle cx="420" cy="62" r="3"/>
+    <circle cx="470" cy="112" r="3"/>
+    <circle cx="350" cy="190" r="3"/>
+  </g>
+
+  <!-- chip glyph -->
+  <g filter="url(#soft)">
+    <rect x="962" y="76" width="116" height="116" rx="14" stroke="#00ff88" stroke-width="2" fill="rgba(0,255,136,0.04)"/>
+    <rect x="990" y="104" width="60" height="60" rx="8" stroke="#00f0ff" stroke-width="1.6" fill="rgba(0,240,255,0.05)"/>
+    <path d="M1010 150 h20 M1020 140 v20" stroke="#00ff88" stroke-width="1.6"/>
+  </g>
+  <g stroke="#00ff88" stroke-width="2">
+    <path d="M986 76 V58"/><path d="M1004 76 V58"/><path d="M1022 76 V58"/><path d="M1040 76 V58"/><path d="M1058 76 V58"/>
+    <path d="M986 192 V210"/><path d="M1004 192 V210"/><path d="M1022 192 V210"/><path d="M1040 192 V210"/><path d="M1058 192 V210"/>
+    <path d="M962 100 H944"/><path d="M962 118 H944"/><path d="M962 136 H944"/><path d="M962 154 H944"/><path d="M962 172 H944"/>
+    <path d="M1078 100 H1096"/><path d="M1078 118 H1096"/><path d="M1078 136 H1096"/><path d="M1078 154 H1096"/><path d="M1078 172 H1096"/>
+  </g>
+
+  <!-- text -->
+  <text x="72" y="140" font-family="'Segoe UI', Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="5" fill="url(#name)">AKIF MOHAMED</text>
+  <rect x="76" y="164" width="110" height="4" rx="2" fill="url(#bar)"/>
+  <text x="76" y="206" font-family="Consolas, 'Courier New', monospace" font-size="17" letter-spacing="3.5" fill="#8b949e">VLSI PHYSICAL DESIGN · RTL-TO-GDSII</text>
+  <text x="76" y="232" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="2" fill="#556c64">ANALOG IC · HIGH-SPEED PCB · EMBEDDED · EDGE AI</text>
+</svg>
