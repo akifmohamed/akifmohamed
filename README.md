@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="banner" width="100%" />
+
 
 <br/>
 
@@ -83,7 +83,7 @@ I turn ideas into **silicon and boards** — from **RTL to GDSII** and **schemat
 
 <br/>
 
-<img src="profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph"/>
+
 
 <br/>
 
