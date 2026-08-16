@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="banner.png" alt="banner" width="100%" />
+
+<br/>
+
 <a href="https://github.com/akifmohamed">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Akif+Mohamed+%F0%9F%91%8B;VLSI+Physical+Design+Engineer;RTL+%E2%86%92+GDSII+%7C+SkyWater+Sky130;Analog+IC+%C2%B7+High-Speed+PCB+%C2%B7+Embedded" alt="Typing SVG" />
 </a>
@@ -28,7 +32,7 @@ I turn ideas into **silicon and boards** — from **RTL to GDSII** and **schemat
 - 🎓 B.E. Electronics & Communication Engineering — *Government College of Engineering, Srirangam*
 - 🧬 **Tapeout-clean** SkyWater Sky130 flows — DRC 0 · LVS 100% · STA signed off
 - 🔐 Designed an **AES-128 crypto accelerator SoC** end-to-end
-- ⚡ Building a **6-layer Edge-AI PCB** — Cortex-M7 · CAN-FD · on-device TPU
+- ⚡ Built a **6-layer Edge-AI PCB** — Cortex-M7 · CAN-FD · on-device TPU
 
 ---
 
@@ -66,8 +70,8 @@ I turn ideas into **silicon and boards** — from **RTL to GDSII** and **schemat
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=akifmohamed&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akifmohamed&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&border_radius=10" alt="Top Languages"/>
+<img height="175" src="https://github-readme-stats-three-sage.vercel.app/api?username=akifmohamed&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+<img height="175" src="https://github-readme-stats-three-sage.vercel.app/api/top-langs/?username=akifmohamed&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&border_radius=10" alt="Top Languages"/>
 
 <br/>
 
@@ -79,9 +83,13 @@ I turn ideas into **silicon and boards** — from **RTL to GDSII** and **schemat
 
 <br/>
 
+<img src="profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph"/>
+
+<br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/akifmohamed/akifmohamed/raw/main/dist/github-contribution-grid-snake-dark.svg">
-  <img alt="contribution snake" src="https://github.com/akifmohamed/akifmohamed/raw/main/dist/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution snake" src="dist/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
