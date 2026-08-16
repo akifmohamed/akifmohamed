@@ -32,7 +32,7 @@ I turn ideas into **silicon and boards** — from **RTL to GDSII** and **schemat
 - 🎓 B.E. Electronics & Communication Engineering — *Government College of Engineering, Srirangam*
 - 🧬 **Tapeout-clean** SkyWater Sky130 flows — DRC 0 · LVS 100% · STA signed off
 - 🔐 Designed an **AES-128 crypto accelerator SoC** end-to-end
-- ⚡ Built a **6-layer Edge-AI PCB** — Cortex-M7 · CAN-FD · on-device TPU
+- ⚡ Building a **6-layer Edge-AI PCB** — Cortex-M7 · CAN-FD · on-device TPU
 
 ---
 
