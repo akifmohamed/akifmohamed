@@ -62,9 +62,6 @@ I turn ideas into **silicon and boards** — from **RTL to GDSII** and **schemat
 
 <br/>
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akifmohamed&bg_color=0d1117&color=10b981&line=10b981&point=10b981&area=true&hide_border=true&radius=12" alt="Contribution Graph"/>
-
 <br/>
 
 
