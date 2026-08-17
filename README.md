@@ -61,9 +61,6 @@ I turn ideas into **silicon and boards** — from **RTL to GDSII** and **schemat
 <img height="175" src="https://github-readme-stats-three-sage.vercel.app/api?username=akifmohamed&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
 
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=akifmohamed&hide_border=true&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akifmohamed&bg_color=0d1117&color=10b981&line=10b981&point=10b981&area=true&hide_border=true&radius=12" alt="Contribution Graph"/>
