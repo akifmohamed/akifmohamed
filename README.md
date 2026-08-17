@@ -38,18 +38,6 @@ I turn ideas into **silicon and boards** — from **RTL to GDSII** and **schemat
 
 ## 🛠️ Tech Stack
 
-**Languages & HDL**
-
-<img src="https://skillicons.dev/icons?i=verilog,c,cpp,python,bash,matlab" alt="languages"/>
-
-**Hardware · Embedded · AI**
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,tensorflow,pytorch" alt="embedded"/>
-
-**Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,githubactions" alt="tooling"/>
-
 **VLSI / EDA** — OpenLane 2 · SkyWater SKY130 · Yosys · OpenSTA · Magic · Netgen · KLayout · Cadence Virtuoso · SPICE
 **PCB / Hardware** — Altium Designer · KiCad · ARM Cortex-M · FPGA · RISC-V
 
@@ -71,7 +59,6 @@ I turn ideas into **silicon and boards** — from **RTL to GDSII** and **schemat
 <div align="center">
 
 <img height="175" src="https://github-readme-stats-three-sage.vercel.app/api?username=akifmohamed&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
-<img height="175" src="https://github-readme-stats-three-sage.vercel.app/api/top-langs/?username=akifmohamed&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&border_radius=10" alt="Top Languages"/>
 
 <br/>
 
