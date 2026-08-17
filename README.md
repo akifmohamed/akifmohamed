@@ -71,11 +71,6 @@ I turn ideas into **silicon and boards** — from **RTL to GDSII** and **schemat
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
-  <img alt="contribution snake" src="dist/github-contribution-grid-snake.svg">
-</picture>
-
 </div>
 
 ---
